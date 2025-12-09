@@ -28,3 +28,6 @@
 [submodule "202526/2526_sdp8_vehicle_detection_and_categorization"]
 	path = 202526/2526_sdp8_vehicle_detection_and_categorization
 	url = https://github.com/jalshah11/2526_sdp8_vehicle_detection_and_categorization
+[submodule "202526/2526_sdp8_College_info_assistant"]
+	path = 202526/2526_sdp8_College_info_assistant
+	url = https://github.com/madhav2710/2526_sdp8_College_info_assistant
