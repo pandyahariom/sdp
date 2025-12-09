@@ -19,3 +19,6 @@
 [submodule "202526/2526_sdp8_onlineFarmerEducationAndComplaintSolvingPlatform"]
 	path = 202526/2526_sdp8_onlineFarmerEducationAndComplaintSolvingPlatform
 	url = https://github.com/NEHPATEL0810/2526_sdp8_onlineFarmerEducationAndComplaintSolvingPlatform
+[submodule "202526/2526_SDP8_Face-mask-detection"]
+	path = 202526/2526_SDP8_Face-mask-detection
+	url = https://github.com/DeepVaishnav17/2526_SDP8_Face-mask-detection
