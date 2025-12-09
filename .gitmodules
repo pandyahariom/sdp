@@ -13,3 +13,6 @@
 [submodule "202526/2526_sdp3_mkrs"]
 	path = 202526/2526_sdp3_mkrs
 	url = https://github.com/shivam1002modi/2526_sdp3_mkrs
+[submodule "202526/2526_sdp8_chatbot"]
+	path = 202526/2526_sdp8_chatbot
+	url = https://github.com/Hepin007/2526_sdp8_chatbot
