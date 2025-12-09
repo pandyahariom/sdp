@@ -10,3 +10,6 @@
 [submodule "202526/2526_sdp8_tripagent"]
 	path = 202526/2526_sdp8_tripagent
 	url = https://github.com/Naitik-Chaudhari/2526_sdp8_tripagent
+[submodule "202526/2526_sdp3_mkrs"]
+	path = 202526/2526_sdp3_mkrs
+	url = https://github.com/shivam1002modi/2526_sdp3_mkrs
