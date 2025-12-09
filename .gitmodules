@@ -7,3 +7,6 @@
 [submodule "202526/2526_SDP8_PullRequest_Intelligence_System"]
 	path = 202526/2526_SDP8_PullRequest_Intelligence_System
 	url = https://github.com/Manvadariya/2526_SDP8_PullRequest_Intelligence_System
+[submodule "202526/2526_sdp8_tripagent"]
+	path = 202526/2526_sdp8_tripagent
+	url = https://github.com/Naitik-Chaudhari/2526_sdp8_tripagent
