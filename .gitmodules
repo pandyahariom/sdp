@@ -16,3 +16,6 @@
 [submodule "202526/2526_sdp8_chatbot"]
 	path = 202526/2526_sdp8_chatbot
 	url = https://github.com/Hepin007/2526_sdp8_chatbot
+[submodule "202526/2526_sdp8_onlineFarmerEducationAndComplaintSolvingPlatform"]
+	path = 202526/2526_sdp8_onlineFarmerEducationAndComplaintSolvingPlatform
+	url = https://github.com/NEHPATEL0810/2526_sdp8_onlineFarmerEducationAndComplaintSolvingPlatform
