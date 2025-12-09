@@ -25,3 +25,6 @@
 [submodule "202526/2526_sdp8_ai-assignment-checker"]
 	path = 202526/2526_sdp8_ai-assignment-checker
 	url = https://github.com/Bhargav-611/2526_sdp8_ai-assignment-checker
+[submodule "202526/2526_sdp8_vehicle_detection_and_categorization"]
+	path = 202526/2526_sdp8_vehicle_detection_and_categorization
+	url = https://github.com/jalshah11/2526_sdp8_vehicle_detection_and_categorization
