@@ -31,3 +31,6 @@
 [submodule "202526/2526_sdp8_College_info_assistant"]
 	path = 202526/2526_sdp8_College_info_assistant
 	url = https://github.com/madhav2710/2526_sdp8_College_info_assistant
+[submodule "202526/2025-26_sdp3_TextToLearn"]
+	path = 202526/2025-26_sdp3_TextToLearn
+	url = https://github.com/Rushi-web446/2025-26_sdp3_TextToLearn
