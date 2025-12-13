@@ -40,3 +40,6 @@
 [submodule "202526/202526_SDP3_MicroStay"]
 	path = 202526/202526_SDP3_MicroStay
 	url = https://github.com/kantariya/202526_SDP3_MicroStay
+[submodule "202526/2025_26_SDP3_AI_BASED_JOB_PORTAL"]
+	path = 202526/2025_26_SDP3_AI_BASED_JOB_PORTAL
+	url = https://github.com/Adityapatelcodes/2025_26_SDP3_AI_BASED_JOB_PORTAL
