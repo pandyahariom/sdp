@@ -43,3 +43,6 @@
 [submodule "202526/2025_26_SDP3_AI_BASED_JOB_PORTAL"]
 	path = 202526/2025_26_SDP3_AI_BASED_JOB_PORTAL
 	url = https://github.com/Adityapatelcodes/2025_26_SDP3_AI_BASED_JOB_PORTAL
+[submodule "202526/2025-26_SDP3_Spam_Text_Message_Detection"]
+	path = 202526/2025-26_SDP3_Spam_Text_Message_Detection
+	url = https://github.com/zalaprashant2003-spec/2025-26_SDP3_Spam_Text_Message_Detection
