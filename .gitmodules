@@ -46,3 +46,6 @@
 [submodule "202526/2025-26_SDP3_Spam_Text_Message_Detection"]
 	path = 202526/2025-26_SDP3_Spam_Text_Message_Detection
 	url = https://github.com/zalaprashant2003-spec/2025-26_SDP3_Spam_Text_Message_Detection
+[submodule "202526/2025-26_sdp3_Cognitive-Pattern-Decoder"]
+	path = 202526/2025-26_sdp3_Cognitive-Pattern-Decoder
+	url = https://github.com/Manan1107/2025-26_sdp3_Cognitive-Pattern-Decoder
