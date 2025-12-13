@@ -34,3 +34,6 @@
 [submodule "202526/2025-26_sdp3_TextToLearn"]
 	path = 202526/2025-26_sdp3_TextToLearn
 	url = https://github.com/Rushi-web446/2025-26_sdp3_TextToLearn
+[submodule "202526/2025-26_Sdp3_Document-summarization-system"]
+	path = 202526/2025-26_Sdp3_Document-summarization-system
+	url = https://github.com/MokshDesai/2025-26_Sdp3_Document-summarization-system
