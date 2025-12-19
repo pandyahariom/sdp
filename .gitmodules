@@ -49,3 +49,6 @@
 [submodule "202526/2025-26_sdp3_Cognitive-Pattern-Decoder"]
 	path = 202526/2025-26_sdp3_Cognitive-Pattern-Decoder
 	url = https://github.com/Manan1107/2025-26_sdp3_Cognitive-Pattern-Decoder
+[submodule "202526/Job-Portal"]
+	path = 202526/Job-Portal
+	url = https://github.com/ShreyasPatel2404/Job-Portal
